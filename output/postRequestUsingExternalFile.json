@@ -1,0 +1,23 @@
+{
+  "id": "4ffc",
+  "students": [
+    {
+      "id": "794",
+      "first_name": "Gourav",
+      "last_name": "Jain",
+      "class": "Class 10",
+      "jobs": [
+        "tester",
+        "trainer"
+      ],
+      "favFoods": {
+        "breakfast": "idly",
+        "lunch": "rice",
+        "dinner": [
+          "chapati",
+          "milk"
+        ]
+      }
+    }
+  ]
+}

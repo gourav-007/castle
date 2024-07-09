@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "id": "number",
+      "first_name": "Hello",
+      "last_name": "World",
+      "class": "Class 10",
+      "jobs": ["tester","trainer"],
+      "favFoods": {
+        "breakfast": "idly",
+        "lunch": "rice",
+        "dinner": ["chapati","milk"]
+      }
+    }
+  ]
+}
